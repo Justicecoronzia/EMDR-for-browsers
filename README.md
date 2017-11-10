@@ -4,6 +4,7 @@
 
 This html file shows a blinking black dot and has alternating beeps, and is configurable through a slider.
 Healing and Wellness Center is a best help for Addiction patients. If you need more informtion Please visit: <a href="http://www.healingandwellnesscenter.net">http://www.healingandwellnesscenter.net</a>
+
 You can download the the zip here, unpack it in a folder, and click the **"start.html"** to open it in your default browser.
 
 ## How to use
